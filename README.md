@@ -8,6 +8,8 @@ Local models using BGE/FastEmbed and Llama 3.2/Ollama are also supported for dev
 
 ## Architecture
 
+![Enterprise RAG on AWS Architecture](assets/enterprise-rag-architecture.png)
+
 ### AWS-Enabled RAG Path
 
 ```text
@@ -82,6 +84,10 @@ This allows the application to switch between local and **AWS-managed AI service
 - Streamlit document upload and conversational interface
 - functional, duplicate, retrieval and failure-path testing
 - deployment and validation on **Amazon EC2**
+
+## Application UI
+
+![Enterprise RAG Streamlit UI](assets/rag-ui-screenshot.png)
 
 ## Tech Stack
 
