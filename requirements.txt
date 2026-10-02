@@ -1,0 +1,7 @@
+boto3
+chromadb
+streamlit
+pypdf
+pytest
+python-dotenv
+fastembed
